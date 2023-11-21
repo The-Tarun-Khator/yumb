@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://wallpapercave.com/wp/wp7700899.jpg'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    color: #000000; /* Set the text color to white or a suitable contrast */
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.section-heading {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.screenshot-container {
+    max-width: 800px; /* Adjust the width as needed */
+    margin: 0 auto;
+    overflow-y: scroll;
+}
+
+.screenshot-container img {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.gift-image-container {
+    text-align: center;
+}
+
+.gift-image-container img {
+    max-width: 100%;
+    height: auto;
+}
